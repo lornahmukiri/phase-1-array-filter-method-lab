@@ -1,7 +1,7 @@
 // Code your solution here
 const drivers = [{name: 'Brenda', hometown: 'Mombasa'}, {name: 'Kendi', hometown: 'Nyeri'}]
 
-const names = ['Angela', 'becky', 'MOFFAT'];
+const names = ['Angela', 'becky', 'MOFFAT', 'pAuLiNe', 'CHRistine'];
 
 function findMatching (driverArray, driverName) {
     const driverNameUpper = driverName.toUpperCase();
